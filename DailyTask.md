@@ -942,3 +942,9 @@ Sir, below is my *task plan for today (29/06/2026):*
 Sir, below is my *task plan for today (30/06/2026):*
 1. Explore and implement *advanced prompt engineering techniques*, including *Zero-shot*, *One-shot*, and *Few-shot* prompting strategies.
 2. Complete the *Generative AI application development environment setup* and successfully run the initial AI application.
+
+
+Sir, below is my *task plan for today (01/07/2026):*
+1. Set up a *local Large Language Model (LLM)* environment for AI chatbot development and validate the initial deployment.
+2. Implement *Prompt Serialization* and *Instruction Formatting* techniques to improve prompt structure and model response consistency.
+
