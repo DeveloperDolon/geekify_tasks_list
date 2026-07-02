@@ -948,3 +948,8 @@ Sir, below is my *task plan for today (01/07/2026):*
 1. Set up a *local Large Language Model (LLM)* environment for AI chatbot development and validate the initial deployment.
 2. Implement *Prompt Serialization* and *Instruction Formatting* techniques to improve prompt structure and model response consistency.
 
+
+Sir, below is my *task plan for today (02/07/2026):*
+1. Implement the *AI Orchestrator*.
+2. Explore *Vector Databases* and the *LoRA (Low-Rank Adaptation)* fine-tuning technique.
+3. Implement *structured output* using *Pydantic*.
