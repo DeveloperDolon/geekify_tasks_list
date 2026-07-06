@@ -953,3 +953,13 @@ Sir, below is my *task plan for today (02/07/2026):*
 1. Implement the *AI Orchestrator*.
 2. Explore *Vector Databases* and the *LoRA (Low-Rank Adaptation)* fine-tuning technique.
 3. Implement *structured output* using *Pydantic*.
+
+Sir, below is my *task plan for today (05/07/2026):*
+1. Run and validate the *local LLM model* through testing.
+2. Implement the *Vector Database* for knowledge retrieval.
+3. Conduct *R&D on the Model Context Protocol (MCP) Server*.
+
+Sir, below is my *task plan for today (06/07/2026):*
+1. Implement *document splitting* and *text chunking* for efficient knowledge processing.
+2. Configure the *LangChain Vector Store* as a retriever for semantic search.
+3. Implement *LangChain-powered Retrieval-Augmented Generation (RAG)* for knowledge-based response generation.
