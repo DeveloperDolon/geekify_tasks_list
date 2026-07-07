@@ -965,3 +965,8 @@ Sir, below is my *task plan for today (06/07/2026):*
 1. Implement *document splitting* and *text chunking* for efficient knowledge processing.
 2. Configure the *LangChain Vector Store* as a retriever for semantic search.
 3. Implement *LangChain-powered Retrieval-Augmented Generation (RAG)* for knowledge-based response generation.
+
+Sir, below is my *task plan for today (07/07/2026):*
+1. Implement *Google Login* integration.
+2. Implement *Facebook Login* integration.
+3. Implement *Twitter (X) Login* integration.
