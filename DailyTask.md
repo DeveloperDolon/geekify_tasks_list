@@ -971,3 +971,11 @@ Sir, below is my *task plan for today (07/07/2026):*
 1. Implement *Google Login* integration.
 2. Implement *Facebook Login* integration.
 3. Implement *Twitter (X) Login* integration.
+
+
+Sir, below is my *task plan for today (08/07/2026):*
+1. Connect workflow nodes using *LangGraph* edges.
+2. Test and debug the *LangGraph AI workflow*.
+3. Integrate the *LLM* into the LangGraph workflow.
+4. Implement *PostgreSQL checkpointing* for LangGraph workflow persistence.
+
