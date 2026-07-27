@@ -1036,3 +1036,9 @@ Sir, below is my *task plan for today (26/07/2026):*
 1. Upgrade the *AWS EC2* instance to a suitable instance type.
 2. Conduct *R&D on Agentic AI systems*, focusing on architecture and practical applications.
 3. Conduct *R&D on the n8n automation platform* and evaluate its workflow automation capabilities.
+
+
+Sir, below is my *task plan for today (27/07/2026):*
+1. Explore tutor-to-you project
+2. Project environment setup 
+3. Build features in project
