@@ -1098,3 +1098,11 @@ Sir, below is my *task plan for today (06/08/2026):*
 1. Implement the *User Profile API* on the backend, including profile retrieval and update endpoints.
 2. Design the *Technician Profile page* on the dashboard and implement the profile update functionality.
 3. Integrate the *User Profile view and update APIs* in the frontend and verify the end-to-end profile management workflow.
+
+
+Sir, below is my *task plan for today (09/08/2026):*
+1. Update the *AI model* used in the chatbot application.
+2. Refactor and optimize the *system prompt* to improve response quality and consistency.
+3. Refactor the *user- and session-based memory retrieval* mechanism to improve contextual understanding and memory performance.
+
+*ETA:* I expect to complete these tasks today.
