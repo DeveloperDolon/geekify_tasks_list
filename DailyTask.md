@@ -1152,3 +1152,15 @@ Sir, below is my *task plan for today (17/08/2026):*
 3. Implement a *real-time countdown timer* for job cards using *WebSocket* to display the remaining job availability time.
 
 *ETA:* I expect to complete these tasks today.
+
+
+Sir, below is my *task plan for today (18/08/2026):*
+1. Implement the *Onsite Tech List API* on the backend.
+2. Implement the *Onsite Tech Status Update API* to manage technician status.
+3. Implement the *Active Bids API* on the backend for retrieving and managing active bids.
+4. Implement *Job Details* display and integrate *Google Maps location* for job visualization.
+
+*ETA:* I expect to complete these tasks today.
+
+
+
