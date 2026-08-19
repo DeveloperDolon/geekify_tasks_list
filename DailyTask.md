@@ -1163,4 +1163,11 @@ Sir, below is my *task plan for today (18/08/2026):*
 *ETA:* I expect to complete these tasks today.
 
 
+Project Name: Geekify Onsite Techs
+Sir, below is my *task plan for today (19/08/2026):*
+1. Implement the *Job Details view* and integrate *Google Maps* to display job locations.
+2. Define and implement *role-based access* for all Onsite Technician API modules on the backend.
+3. Organize and structure the *APIs according to role-based user access and permissions*.
+4. Identify and resolve the *Dashboard authorization and access-control issues*.
 
+*ETA:* I expect to complete these tasks today.
