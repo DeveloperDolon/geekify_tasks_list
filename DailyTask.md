@@ -1166,8 +1166,20 @@ Sir, below is my *task plan for today (18/08/2026):*
 Project Name: Geekify Onsite Techs
 Sir, below is my *task plan for today (19/08/2026):*
 1. Implement the *Job Details view* and integrate *Google Maps* to display job locations.
-2. Define and implement *role-based access* for all Onsite Technician API modules on the backend.
+2. Define and implement *rProject Name: Geekify Onsite Techsole-based access* for all Onsite Technician API modules on the backend.
 3. Organize and structure the *APIs according to role-based user access and permissions*.
 4. Identify and resolve the *Dashboard authorization and access-control issues*.
 
 *ETA:* I expect to complete these tasks today.
+
+
+
+*Project:* Geekify Onsite Techs
+
+Sir, below is my *task plan for today (20/08/2026):*
+1. *Job Push Notifications* – Implement and integrate job push notification functionality.
+2. *Bid Notifications* – Implement the notification system for job bid activities.
+3. *Job Board Details – Map Directions* – Integrate map direction functionality into the job details page.
+4. *User Update Email System* – Implement email notifications for user profile/update activities.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
