@@ -1195,3 +1195,15 @@ Sir, below is my *task plan for today (23/08/2026):*
 3. Implement the *Job Progress Update API* on the backend to allow onsite technicians to update job status after accepting a bid.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+*Project: Geekify Onsite Techs*
+
+Sir, below is my *task plan for today (24/08/2026):*
+
+1. Implement the *Job Progress Update API* on the backend to allow onsite technicians to update job progress after accepting a bid.
+2. Implement the *Bid Accepted Notification* system to notify relevant users when a job bid is accepted.
+3. Develop the *Dashboard Analytics API* on the backend to provide the required data for dashboard statistics and insights.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
