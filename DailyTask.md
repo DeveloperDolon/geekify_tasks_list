@@ -1207,3 +1207,13 @@ Sir, below is my *task plan for today (24/08/2026):*
 3. Develop the *Dashboard Analytics API* on the backend to provide the required data for dashboard statistics and insights.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+*Project: Geekify Onsite Techs*
+
+Sir, below is my *task plan for today (25/08/2026):*
+1. Explore the *booking and job progress workflow* in the existing Technician application to understand the current implementation and business logic.
+2. Conduct *R&D on the payment workflow* and determine how technician work progress can be tracked and managed from the *Admin Dashboard*.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
