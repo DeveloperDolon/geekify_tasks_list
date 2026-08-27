@@ -1227,3 +1227,14 @@ Sir, below is my *task plan for today (26/08/2026):*
 2. Design and implement an *AI Agent* within the MeMe application to enhance its capabilities and enable more intelligent, task-oriented interactions.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+*Project: Geekify Onsite Techs*
+
+Sir, below is my *task plan for today (27/08/2026):*
+1. Conduct *R&D on the Technician Appointment Process* to understand and finalize the required workflow and business logic.
+2. Design the *Appointment Start page* for the Technician Dashboard with a clear and user-friendly interface.
+3. Integrate and implement the *Appointment Start API* on the frontend and validate the end-to-end workflow.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
