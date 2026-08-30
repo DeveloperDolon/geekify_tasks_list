@@ -1244,8 +1244,9 @@ Sir, below is my *task plan for today (27/08/2026):*
 *Project: Geekify Onsite Techs*
 
 Sir, below is my *task plan for today (30/08/2026):*
-1. Environment setup for new PC
-2. Implement booking note system 
-3. Implement booking complete and delivery functionality and integrate all related apis
+
+1. Complete the *development environment setup* on the new PC, including the required tools, dependencies, and project configuration.
+2. Implement the *Booking Notes* functionality to allow technicians to add and manage relevant notes throughout the booking workflow.
+3. Implement the *Booking Completion and Delivery* functionality and integrate all related APIs to complete the end-to-end booking workflow.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
