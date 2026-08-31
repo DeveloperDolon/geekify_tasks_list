@@ -1260,5 +1260,6 @@ Sir, below is my *task plan for today (31/08/2026):*
 1. Develop the *ServiceAgreement functionality* to capture customer agreements and digital signatures.
 2. Develop the *StartAppointment feature* to initiate appointments and manage the scheduling workflow.
 3. Implement the *CollectPayments, AppointmentCompletionForm, and ProductsView* pages to support payment collection, appointment completion, and product-related workflows.
+4. Remove unnessary features form appointment module as instruction
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
