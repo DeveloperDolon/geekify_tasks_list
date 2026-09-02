@@ -1276,3 +1276,16 @@ Sir, below is my *task plan for today (01/09/2026):*
 4. Remove unnessary features form appointment module as instruction
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+*Project: Geekify Onsite Techs*
+
+Sir, below is my *task plan for today (02/09/2026):*
+
+1. Develop the *Dashboard Statistics API* on the backend to provide the required metrics and analytics data.
+2. Develop the *Earnings API* on the backend to retrieve and manage technician earnings information.
+3. Identify and resolve the *currency mismatch issue* in the backend to ensure consistent currency handling across the application.
+4. Restructure the *Appointments section* by removing the existing appointment view and introducing *Bid Details* for managing appointments through the bidding workflow.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
