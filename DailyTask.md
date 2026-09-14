@@ -1358,3 +1358,14 @@ Sir, below is my *task plan for today (13/09/2026):*
 4. Implement the *Knowledge Base deletion API* with appropriate data handling and validation.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+*Project: Geekify Ask MeMe*
+
+Sir, below is my *task plan for today (14/09/2026):*
+1. Implement the *document training API* (`POST /admin/api/training`) with document checksum generation, S3 upload, and corresponding FILES record creation.
+2. Implement *checksum-based caching logic* to prevent unnecessary document re-processing when an existing checksum is detected.
+3. Develop the *Markdown document processing workflow* to extract document content and trigger the subsequent chunk processing pipeline.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
