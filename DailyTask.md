@@ -1380,3 +1380,15 @@ Sir, below is my *task plan for today (16/09/2026):*
 3. Implement the *PDF processing workflow* using PyMuPDF, including page-level document splitting for further processing.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+*Project: Geekify Ask MeMe*
+
+Sir, below is my *task plan for today (17/09/2026):*
+
+1. Conduct comprehensive *testing of the implemented features* to verify functionality and identify any remaining issues.
+2. Implement *LLM-based OCR processing per page in bulk for PDF files*.
+3. Implement a *batch-to-chunk processing workflow for PDF file processing*.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
