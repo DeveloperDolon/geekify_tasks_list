@@ -1392,3 +1392,14 @@ Sir, below is my *task plan for today (17/09/2026):*
 3. Implement a *batch-to-chunk processing workflow for PDF file processing*.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+*Project: Geekify Ask MeMe*
+
+Sir, below is my *task plan for today (20/09/2026):*
+1. Implement the *Redis Pub/Sub infrastructure* across the Document, Crawler, and Chunk processing services to publish real-time processing events.
+2. Develop the *WebSocket server* to subscribe to Redis channels and deliver real-time updates to connected admin clients.
+3. Implement and emit all *seven processing event types* with relevant payloads, including progress percentage, page count, and error details.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
