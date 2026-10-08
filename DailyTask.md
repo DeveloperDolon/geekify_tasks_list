@@ -1552,3 +1552,14 @@ Sir, below is my *task plan for today (07/10/2026):*
 3. Implement the *Open Air Seat Plan* and refactor the dependent systems and components accordingly to support the new seating workflow.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+*Project: Krazy Tickets*
+
+Sir, below is my *task plan for today (08/10/2026):*
+1. Implement the *Open Air Ticket Booking functionality*, including the required booking flow and integration with the existing ticketing system.
+2. Refactor and enhance the *Payment API logic* to properly support *Open Air bookings* and *Charity Fee* handling.
+3. Implement *Charity Fee support* in the *Event Create API* and develop the corresponding frontend UI for configuring and managing the fee.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
