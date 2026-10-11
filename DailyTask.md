@@ -1563,3 +1563,15 @@ Sir, below is my *task plan for today (08/10/2026):*
 3. Implement *Charity Fee support* in the *Event Create API* and develop the corresponding frontend UI for configuring and managing the fee.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+*Project: Krazy Tickets*
+
+Sir, below is my *task plan for today (11/10/2026):*
+1. Update the *Charity Fee functionality* to make the fee optional for customers during the ticket purchasing process.
+2. Enhance the *Order Management System* to calculate and record Charity Fees separately from ticket prices for accurate order and payment handling.
+3. Implement the *Open Air Seat Selection and Booking functionality*, enabling customers to select available seats and proceed with ticket purchases.
+4. Integrate *Payment Processing for Open Air Seat Bookings* to support secure and reliable transactions through the existing payment system.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
