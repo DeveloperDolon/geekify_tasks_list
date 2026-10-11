@@ -14,3 +14,16 @@ def lengthOfLongestSubstring(s):
 
     return longest
 print(lengthOfLongestSubstring("abcabcdd"))
+
+
+def generatePassword():
+    random_password = "";
+
+    for i in range(10):
+        print(i);
+        random_password += str(i)
+
+
+    return random_password;
+
+print(generatePassword());
