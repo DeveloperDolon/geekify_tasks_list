@@ -1586,3 +1586,14 @@ Sir, below is my *task plan for today (12/10/2026):*
 3. Conduct *initial testing of the integrated features* in the deployed environment to verify functionality and identify any issues requiring further attention.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+*Project: Tutor2U*
+
+Sir, below is my *task plan for today (13/10/2026):*
+1. Set up the project by cloning the codebase from *Bitbucket* and reviewing the existing project structure and configuration.
+2. Explore the *Tutor2U frontend* to understand its UI structure, component architecture, design patterns, and existing functionality.
+3. Conduct initial *R&D on NestJS* to understand its core concepts, project architecture, and backend development workflow.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
