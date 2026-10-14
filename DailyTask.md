@@ -1597,3 +1597,14 @@ Sir, below is my *task plan for today (13/10/2026):*
 3. Conduct initial *R&D on NestJS* to understand its core concepts, project architecture, and backend development workflow.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+*Project: Tutor2U*
+
+Sir, below is my *task plan for today (14/10/2026):*
+1. Run Tutor2U project project.
+2. Explore about NestJS function and controller.
+3. Explore features and designs.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
