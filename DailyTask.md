@@ -1603,8 +1603,8 @@ Sir, below is my *task plan for today (13/10/2026):*
 *Project: Tutor2U*
 
 Sir, below is my *task plan for today (14/10/2026):*
-1. Run Tutor2U project project.
-2. Explore about NestJS function and controller.
-3. Explore features and designs.
+1. Set up and run the *Tutor2U project* locally to verify the development environment and ensure the application runs correctly.
+2. Explore *NestJS Controllers and Functions*, focusing on request handling, routing, and the interaction between controllers and services.
+3. Explore the project's existing *features and UI designs* to understand the functionality, design patterns, and potential areas for improvement.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
