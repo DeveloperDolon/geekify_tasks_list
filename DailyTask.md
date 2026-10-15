@@ -1608,3 +1608,15 @@ Sir, below is my *task plan for today (14/10/2026):*
 3. Explore the project's existing *features and UI designs* to understand the functionality, design patterns, and potential areas for improvement.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+
+*Project: Tutor2U*
+
+Sir, below is my *task plan for today (15/10/2026):*
+1. Investigate and resolve the *Subject List API issue* to ensure accurate data retrieval and proper integration with the application.
+2. Investigate and resolve the *Tutor List API issue* to ensure reliable data fetching and correct functionality.
+3. Explore the existing *Tutor2U features and business logic* to gain a deeper understanding of the application's workflows, core functionality, and system architecture.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
