@@ -1620,3 +1620,15 @@ Sir, below is my *task plan for today (15/10/2026):*
 3. Explore the existing *Tutor2U features and business logic* to gain a deeper understanding of the application's workflows, core functionality, and system architecture.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+
+*Project: Tutor2U*
+
+Sir, below is my *task plan for today (17/10/2026):*
+1. Investigate and resolve the *Teacher Dashboard API issue* to ensure accurate data retrieval and proper dashboard functionality.
+2. Study advanced *NestJS concepts*, including Dynamic Modules, Custom Decorators, and Reflector, to strengthen my understanding of backend architecture and request handling.
+3. Identify, investigate, and resolve existing *NestJS backend issues* to improve application stability and ensure reliable functionality.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
