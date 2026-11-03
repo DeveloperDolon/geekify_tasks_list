@@ -1707,3 +1707,14 @@ Sir, below is my *task plan for today (02/11/2026):*
 4. Investigate and resolve *image upload issues* across the application to ensure consistent functionality.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+*Project: Tutor2U*
+
+Sir, below is my *task plan for today (03/11/2026):*
+1. Develop and integrate the *homepage cartoon animation* to enhance the website's visual presentation and user experience.
+2. Implement the *Subject Category functionality* across the backend, including the required APIs, business logic, and related operations.
+3. Update and optimize the *relevant database structure and relationships* to support the Subject Category functionality and ensure consistent data handling.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
