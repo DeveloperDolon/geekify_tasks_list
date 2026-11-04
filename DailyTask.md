@@ -1718,3 +1718,15 @@ Sir, below is my *task plan for today (03/11/2026):*
 3. Update and optimize the *relevant database structure and relationships* to support the Subject Category functionality and ensure consistent data handling.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+*Project: Tutor2U*
+
+Sir, below is my *task plan for today (04/11/2026):*
+1. Integrate the *Subject Category feature* into the Tutor Dashboard, including the required UI components and functionality.
+2. Add a *new section to the homepage* and continue developing the cartoon animation to enhance the overall visual experience.
+3. Implement *Tutor Job Application Management* in the Tutor Dashboard, enabling tutors to manage and track their job applications.
+4. Develop *Job Application Management* in the Parent Dashboard, allowing parents to review and manage applications submitted by tutors.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
