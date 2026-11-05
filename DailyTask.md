@@ -1730,3 +1730,15 @@ Sir, below is my *task plan for today (04/11/2026):*
 4. Develop *Job Application Management* in the Parent Dashboard, allowing parents to review and manage applications submitted by tutors.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+*Project: Tutor2U*
+
+Sir, below is my *task plan for today (05/11/2026):*
+1. Implement the *Tutor Resources Management feature* on the backend, including the required business logic, data handling, and API endpoints.
+2. Design the *Resources pages* on the frontend and integrate the corresponding APIs to support resource management and display.
+3. Refactor the *Subject APIs* to include and efficiently handle related resource data.
+4. Implement the *Resources Listing feature* with associated tutor details to provide a clear and organized view of available resources.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
