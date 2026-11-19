@@ -1753,3 +1753,14 @@ Sir, below is my *task plan for today (09/11/2026):*
 3. Integrate the *settings configurations across the entire website* to ensure that changes made through the settings system are consistently reflected throughout the application.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+*Project: Tutor2U*
+
+Sir, below is my *task plan for today (18/11/2026):*
+1. Implement *WebSocket integration* to support real-time notifications and enable instant updates without requiring page refreshes.
+2. Develop the *Admin Notification Management module* on the backend, including the necessary APIs, business logic, and notification handling.
+3. Integrate the *Notification System into the Admin Dashboard* on the frontend, including the notification interface and real-time update functionality.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
