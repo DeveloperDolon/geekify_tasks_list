@@ -1764,3 +1764,14 @@ Sir, below is my *task plan for today (18/11/2026):*
 3. Integrate the *Notification System into the Admin Dashboard* on the frontend, including the notification interface and real-time update functionality.
 
 *ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
+
+
+
+*Project: Tutor2U*
+
+Sir, below is my *task plan for today (19/11/2026):*
+1. Implement the required *Notification APIs for the Tutor module*, including notification retrieval, management, and related backend functionality.
+2. Integrate the *Notification System into the Tutor Dashboard* on the frontend, including the notification interface and real-time update functionality.
+3. Implement the required *Notification APIs for the Parent module* to support notification handling and management within the Parent Dashboard.
+
+*ETA:* Targeting completion of the above tasks today, subject to any unexpected technical dependencies.
